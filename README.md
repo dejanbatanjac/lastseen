@@ -1,3 +1,4 @@
-# last-seen
+# lastseen script for SO
 
-Getting the SO last seen statistics for a user.
+Getting the StackOverflow last seen statistics for a user.
+Check rate on every minute. Do not lower the check rate since othervise your IP will be penalized.
